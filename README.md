@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Renish
 #### I am Full Stack Developer + Cloud Architect
-![I am Full Stack Developer + Cloud Architect](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full Stack Developer + Cloud Architect](https://media-exp1.licdn.com/dms/image/C5616AQE06xWjKLeFcQ/profile-displaybackgroundimage-shrink_200_800/0/1587893277683?e=1625702400&v=beta&t=2jLFjCKOpqGg3kYU5NGHfdDSXriF1fYoAiXP3CTh57k)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
