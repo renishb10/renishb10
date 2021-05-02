@@ -17,9 +17,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=renishb10&theme=dark&hide_border=true" width = 400>
 </p>
 
-#### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renishb10&&theme=bear&show_icons=true)  
-
 #### Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renishb10)  
 
