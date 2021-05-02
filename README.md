@@ -2,13 +2,15 @@
 #### I am Full Stack Developer + Cloud Architect
 ![I am Full Stack Developer + Cloud Architect](https://media-exp1.licdn.com/dms/image/C5616AQE06xWjKLeFcQ/profile-displaybackgroundimage-shrink_200_800/0/1587893277683?e=1625702400&v=beta&t=2jLFjCKOpqGg3kYU5NGHfdDSXriF1fYoAiXP3CTh57k)
 
-**Skills:** NODE JS / GO / REACT / JS / HTML / CSS
+#### Skills 
+NODE JS | GO | PYTHON | AWS | KUBERNETES | REACT | JS | HTML | CSS
 
+#### What I do
 - 🔭 I’m currently working on implementing KaaS 
 - 🌱 I’m currently learning OperatorSDK, Rust & TailWindCSS 
 - 📫 How to reach me: renishb10@gmail.com 
 
-
+#### Social
 <span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/renishb10)</span>&ensp;&ensp;&ensp;
 <span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/renishb10)</span>&ensp;&ensp;&ensp;
 <span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/renishb/)</span>&ensp;&ensp;&ensp;
