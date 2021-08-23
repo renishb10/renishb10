@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Renish
 #### I am Full Stack Developer + Cloud Architect
-![I am Full Stack Developer + Cloud Architect](https://media-exp1.licdn.com/dms/image/C5616AQE06xWjKLeFcQ/profile-displaybackgroundimage-shrink_200_800/0/1587893277683?e=1625702400&v=beta&t=2jLFjCKOpqGg3kYU5NGHfdDSXriF1fYoAiXP3CTh57k)
+![I am Full Stack Developer + Cloud Architect](https://media-exp1.licdn.com/dms/image/C5616AQE06xWjKLeFcQ/profile-displaybackgroundimage-shrink_200_800/0/1587893277683?e=1635379200&v=beta&t=nWhNcPDh29hop-9lKlppXsbmuYetx49s3sH-4EO6i9g)
 
 #### Skills 
 NODE JS | GO | PYTHON | AWS | KUBERNETES | REACT | JS | HTML | CSS
