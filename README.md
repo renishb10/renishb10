@@ -18,7 +18,7 @@
 
   <a href="https://github.com/renishb10" target="_blank">
     <img
-      width="256"
+      width="356"
       align="right"
       src="https://github.com/renishb10/renishb10/blob/main/devcard.svg"
     />
@@ -32,13 +32,6 @@ NODE JS | GO | PYTHON | AWS | KUBERNETES | REACT | JS | HTML | CSS
 - 🔭 I’m currently working on implementing KaaS 
 - 🌱 I’m currently learning OperatorSDK, Rust & TailWindCSS 
 - 📫 How to reach me: renishb10@gmail.com 
-
-#### Social
-<span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/renishb10)</span>&ensp;&ensp;&ensp;
-<span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/renishb10)</span>&ensp;&ensp;&ensp;
-<span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/renishb/)</span>&ensp;&ensp;&ensp;
-<span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/renishb10//)</span>&ensp;&ensp;&ensp;
-<span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/renishb10?lang=en)</span> 
 
 <h4>Stats & Streaks</h4>
 <p>
