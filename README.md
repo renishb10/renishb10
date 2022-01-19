@@ -15,6 +15,13 @@
       alt="Twitter"
     />
   </a>
+  
+  <a href="https://github.com/renishb10">
+    <img
+      src="https://gpvc.arturio.dev/renishb10"
+      alt="Github"
+    />
+  </a>
 
   <a href="https://github.com/renishb10" target="_blank">
     <img
