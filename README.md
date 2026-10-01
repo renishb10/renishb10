@@ -4,6 +4,8 @@
 
 </div>
 
+<img align="right" src="./assets/profile/renish.png" width="190" alt="Renish Bhaskaran">
+
 # Renish Bhaskaran
 
 I’m **Renish B**, a software architect, cloud engineer, and founder from Coimbatore, India. I’ve been building software for 14+ years, from enterprise platforms and cloud infrastructure to web apps, mobile apps, and my own products at **[Alpstack](https://alpstack.com)**.
@@ -17,6 +19,8 @@ I enjoy working across the whole product, from the first technical decisions to 
   <a href="mailto:renishb10@gmail.com"><img alt="Email Renish" src="https://img.shields.io/badge/Email-say_hello-E8EAF0?style=flat-square&labelColor=111318"></a>
 </p>
 
+<br clear="right">
+
 ## Building now: Alpstack
 
 **Alpstack is the company I started to build and run software products.** I work on the product decisions, design, development, infrastructure, release, and support. I continue to maintain each product after it launches.
@@ -29,7 +33,30 @@ I enjoy working across the whole product, from the first technical decisions to 
 
 ### Selected products
 
-- **[Indraft](https://alpstack.com/indraft)** · `early access`: AI content drafting based on trusted sources. It supports 8 source types and 21 destinations, and nothing is published without review.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://indraft.pub"><img src="./assets/products/indraft.png" alt="Indraft content workflow"></a>
+<br><sub><strong>Indraft</strong> · Sources in. Reviewable drafts out.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/in/app/indraft-ai-content-writer/id6794631258"><img src="./assets/products/indraft-mobile.png" alt="Indraft Mobile app"></a>
+<br><sub><strong>Indraft Mobile</strong> · Capture, run, and review from your phone.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://housepulse.in"><img src="./assets/products/housepulse.png" alt="HousePulse multilingual fan platform"></a>
+<br><sub><strong>HousePulse</strong> · Live voting, contestant journeys, and community.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://markdownpaper.app"><img src="./assets/products/markdownpaper.png" alt="MarkdownPaper reader and editor"></a>
+<br><sub><strong>MarkdownPaper</strong> · A calmer way to read Markdown.</sub>
+</td>
+</tr>
+</table>
+
+- **[Indraft](https://indraft.pub)** · `early access`: AI content drafting based on trusted sources. It supports 8 source types and 23 destinations, and nothing is published without review.
 - **Indraft Mobile** · `iOS + Android`: Capture ideas by voice, text, photo, file, or link, then review and approve Indraft workflows from your phone. [App Store](https://apps.apple.com/in/app/indraft-ai-content-writer/id6794631258) · [Google Play](https://play.google.com/store/apps/details?id=com.alpstack.indraft)
 - **[HousePulse](https://housepulse.in)** · `live`: A multilingual Bigg Boss fan platform with live voting, contestant profiles, season archives, articles, and community features.
 - **[TinyDose](https://alpstack.com/tinydose)** · `iOS + Android`: Vaccination schedules and reminders for parents. It supports India’s UIP and IAP schedules, the US CDC schedule, the UK NHS schedule, and others. [App Store](https://apps.apple.com/in/app/tinydose-baby-vaccine-tracker/id6762482872) · [Google Play](https://play.google.com/store/apps/details?id=com.alpstack.tinydose)
