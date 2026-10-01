@@ -54,6 +54,16 @@ I enjoy working across the whole product, from the first technical decisions to 
 <br><sub><strong>MarkdownPaper</strong> · A calmer way to read Markdown.</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://alpstack.com/tinydose"><img src="./assets/products/tinydose.png" alt="TinyDose vaccination tracker"></a>
+<br><sub><strong>TinyDose</strong> · Vaccination schedules, records, and reminders.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://alpstack.com/triotask"><img src="./assets/products/triotask.png" alt="Triotask focus-first task app"></a>
+<br><sub><strong>Triotask</strong> · Three important tasks. One focused day.</sub>
+</td>
+</tr>
 </table>
 
 - **[Indraft](https://indraft.pub)** · `early access`: AI content drafting based on trusted sources. It supports 8 source types and 23 destinations, and nothing is published without review.
@@ -61,8 +71,9 @@ I enjoy working across the whole product, from the first technical decisions to 
 - **[HousePulse](https://housepulse.in)** · `live`: A multilingual Bigg Boss fan platform with live voting, contestant profiles, season archives, articles, and community features.
 - **[TinyDose](https://alpstack.com/tinydose)** · `iOS + Android`: Vaccination schedules and reminders for parents. It supports India’s UIP and IAP schedules, the US CDC schedule, the UK NHS schedule, and others. [App Store](https://apps.apple.com/in/app/tinydose-baby-vaccine-tracker/id6762482872) · [Google Play](https://play.google.com/store/apps/details?id=com.alpstack.tinydose)
 - **[MarkdownPaper](https://markdownpaper.app)** · `live`: A private Markdown reader and editor that turns local files or pasted Markdown into a typeset page with code, math, diagrams, and PDF export.
+- **[Triotask](https://alpstack.com/triotask)** · `live`: A focus-first task app that limits each day to three important tasks.
 
-**Other live products:** [Triotask](https://alpstack.com/triotask) · **[View all products](https://alpstack.com/products)**
+**[View all products](https://alpstack.com/products)**
 
 **Coming next:** `CЯ∆V?` · `F!VΞTØ9 JØ?S` · `HØUSΞØF∆P!S`
 
