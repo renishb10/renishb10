@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Alpstack products</title>
+  <desc id="desc">Product cards for Indraft, HousePulse, TinyDose, and MarkdownPaper.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C1016"/><stop offset="1" stop-color="#101822"/></linearGradient>
+    <linearGradient id="indraft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5D3FD3"/><stop offset="1" stop-color="#24194F"/></linearGradient>
+    <linearGradient id="house" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F06A3B"/><stop offset="1" stop-color="#5B1D18"/></linearGradient>
+    <linearGradient id="dose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0DAA82"/><stop offset="1" stop-color="#073F3B"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B07D48"/><stop offset="1" stop-color="#4A3728"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".34"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#FFF" fill-opacity=".055"/></pattern>
+    <style>
+      .sans{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    </style>
+  </defs>
+
+  <rect width="1200" height="660" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="660" rx="28" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="658" rx="27" fill="none" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+
+  <g class="mono">
+    <text x="54" y="62" fill="#64F7C2" font-size="13" font-weight="700" letter-spacing="2.2">ALPSTACK / PRODUCT SYSTEMS</text>
+    <text x="1146" y="62" fill="#7D8796" text-anchor="end" font-size="12" letter-spacing="1.4">DESIGNED · SHIPPED · OPERATED</text>
+  </g>
+  <text x="54" y="113" fill="#F4F6F8" class="sans" font-size="31" font-weight="700">Products I build and run at Alpstack</text>
+
+  <g transform="translate(54 154)" filter="url(#shadow)">
+    <rect width="532" height="194" rx="20" fill="url(#indraft)"/>
+    <rect x=".5" y=".5" width="531" height="193" rx="19.5" fill="none" stroke="#FFF" stroke-opacity=".16"/>
+    <circle cx="59" cy="55" r="27" fill="#FFF" fill-opacity=".12"/>
+    <path d="m47 64 11-21 11 21M51 57h14" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="100" y="52" class="sans" fill="#FFF" font-size="25" font-weight="750">Indraft</text>
+    <text x="100" y="77" class="mono" fill="#DCD4FF" font-size="11" letter-spacing="1.2">SOURCE-GROUNDED AI CONTENT</text>
+    <text x="32" y="123" class="sans" fill="#F5F1FF" font-size="16">Trusted sources in. On-brand drafts out.</text>
+    <text x="32" y="149" class="sans" fill="#DCD4FF" font-size="14">Human approval stays in the loop.</text>
+    <g transform="translate(388 25)"><rect width="116" height="29" rx="14.5" fill="#0A0815" fill-opacity=".38"/><circle cx="18" cy="14.5" r="4" fill="#D8C9FF"/><text x="31" y="19" class="mono" fill="#F2EDFF" font-size="10" font-weight="700">EARLY ACCESS</text></g>
+  </g>
+
+  <g transform="translate(614 154)" filter="url(#shadow)">
+    <rect width="532" height="194" rx="20" fill="url(#house)"/>
+    <rect x=".5" y=".5" width="531" height="193" rx="19.5" fill="none" stroke="#FFF" stroke-opacity=".16"/>
+    <circle cx="59" cy="55" r="27" fill="#FFF" fill-opacity=".12"/>
+    <path d="M42 56h9l5-11 8 22 6-11h7" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="100" y="52" class="sans" fill="#FFF" font-size="25" font-weight="750">HousePulse</text>
+    <text x="100" y="77" class="mono" fill="#FFD8C9" font-size="11" letter-spacing="1.2">MULTILINGUAL FAN PLATFORM</text>
+    <text x="32" y="123" class="sans" fill="#FFF4F0" font-size="16">Live votes, complete journeys, community.</text>
+    <text x="32" y="149" class="sans" fill="#FFD8C9" font-size="14">Bigg Boss across Indian languages.</text>
+    <g transform="translate(432 25)"><rect width="72" height="29" rx="14.5" fill="#160805" fill-opacity=".38"/><circle cx="18" cy="14.5" r="4" fill="#84FFC7"/><text x="31" y="19" class="mono" fill="#FFF" font-size="10" font-weight="700">LIVE</text></g>
+  </g>
+
+  <g transform="translate(54 376)" filter="url(#shadow)">
+    <rect width="532" height="194" rx="20" fill="url(#dose)"/>
+    <rect x=".5" y=".5" width="531" height="193" rx="19.5" fill="none" stroke="#FFF" stroke-opacity=".16"/>
+    <circle cx="59" cy="55" r="27" fill="#FFF" fill-opacity=".12"/>
+    <path d="M59 41v28M45 55h28" fill="none" stroke="#FFF" stroke-width="4" stroke-linecap="round"/>
+    <text x="100" y="52" class="sans" fill="#FFF" font-size="25" font-weight="750">TinyDose</text>
+    <text x="100" y="77" class="mono" fill="#BDFFE9" font-size="11" letter-spacing="1.2">VACCINATION REMINDERS</text>
+    <text x="32" y="123" class="sans" fill="#EFFFF9" font-size="16">Every dose. Every child. Right on time.</text>
+    <text x="32" y="149" class="sans" fill="#BDFFE9" font-size="14">Clear schedules for parents worldwide.</text>
+    <g transform="translate(390 25)"><rect width="114" height="29" rx="14.5" fill="#031813" fill-opacity=".42"/><circle cx="18" cy="14.5" r="4" fill="#8DFFD8"/><text x="31" y="19" class="mono" fill="#FFF" font-size="10" font-weight="700">IOS + ANDROID</text></g>
+  </g>
+
+  <g transform="translate(614 376)" filter="url(#shadow)">
+    <rect width="532" height="194" rx="20" fill="url(#paper)"/>
+    <rect x=".5" y=".5" width="531" height="193" rx="19.5" fill="none" stroke="#FFF" stroke-opacity=".16"/>
+    <circle cx="59" cy="55" r="27" fill="#FFF" fill-opacity=".12"/>
+    <path d="M45 41h28v28H45zM50 49h18M50 56h18M50 63h12" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="100" y="52" class="sans" fill="#FFF" font-size="25" font-weight="750">MarkdownPaper</text>
+    <text x="100" y="77" class="mono" fill="#F1DEC7" font-size="11" letter-spacing="1.2">MARKDOWN READER &amp; EDITOR</text>
+    <text x="32" y="123" class="sans" fill="#FFF8EF" font-size="16">Read Markdown like a finished document.</text>
+    <text x="32" y="149" class="sans" fill="#F1DEC7" font-size="14">Private, offline, and print-ready.</text>
+    <g transform="translate(432 25)"><rect width="72" height="29" rx="14.5" fill="#23170E" fill-opacity=".42"/><circle cx="18" cy="14.5" r="4" fill="#84FFC7"/><text x="31" y="19" class="mono" fill="#FFF" font-size="10" font-weight="700">LIVE</text></g>
+  </g>
+
+  <g class="mono" font-size="11" letter-spacing="1.2">
+    <text x="54" y="621" fill="#7D8796">AI CONTENT · ENTERTAINMENT · HEALTH · PRODUCTIVITY</text>
+    <text x="1146" y="621" text-anchor="end" fill="#FF8A55" font-weight="700">UPCOMING / F!VΞTØ9 JØ?S</text>
+  </g>
+</svg>

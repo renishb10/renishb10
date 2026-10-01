@@ -1,214 +1,109 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=700&lines=Software+Architect;Cloud+Engineer;Founder+at+Alpstack;I+build+products+solo." alt="Renish Bhaskaran" />
-
-# ⚡ Renish Bhaskaran
-
-### `14+ years of engineering.` `4 products live.` `One person.`
-
-<img src="https://img.shields.io/badge/-%20-F97316?style=for-the-badge" height="4" width="700" />
-
-[![Website](https://img.shields.io/badge/renish.me-0F172A?style=for-the-badge&logo=About.me&logoColor=F97316)](https://renish.me)
-[![Alpstack](https://img.shields.io/badge/ALPSTACK-F97316?style=for-the-badge&logoColor=white)](https://alpstack.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renishb)
-[![X](https://img.shields.io/badge/@renishb10-0F172A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/renishb10)
-[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renishb10@gmail.com)
+[![Renish Bhaskaran, Software Architect, Cloud Engineer, and founder of Alpstack](./assets/hero.svg)](https://renish.me)
 
 </div>
 
-<br />
+# Renish Bhaskaran
+
+I’m **Renish B**, a software architect, cloud engineer, and founder from Coimbatore, India. I’ve been building software for 14+ years, from enterprise platforms and cloud infrastructure to web apps, mobile apps, and my own products at **[Alpstack](https://alpstack.com)**.
+
+I enjoy working across the whole product, from the first technical decisions to deployment and support.
+
+<p>
+  <a href="https://renish.me"><img alt="Personal website" src="https://img.shields.io/badge/renish.me-visit-FF6B2C?style=flat-square&labelColor=111318"></a>
+  <a href="https://alpstack.com"><img alt="Alpstack engineering studio" src="https://img.shields.io/badge/Alpstack-product_studio-64F7C2?style=flat-square&labelColor=111318"></a>
+  <a href="https://www.linkedin.com/in/renishb"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-connect-78A9FF?style=flat-square&labelColor=111318&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:renishb10@gmail.com"><img alt="Email Renish" src="https://img.shields.io/badge/Email-say_hello-E8EAF0?style=flat-square&labelColor=111318"></a>
+</p>
+
+## Building now: Alpstack
+
+**Alpstack is the company I started to build and run software products.** I work on the product decisions, design, development, infrastructure, release, and support. I continue to maintain each product after it launches.
 
 <div align="center">
 
-## 🚀 &nbsp;SHIPPED &nbsp;&&nbsp; LIVE
-
-**Four products. Designed, built, deployed, and supported by me.**
+![Selected products designed, built, and operated by Alpstack](./assets/product-shelf.svg)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Selected products
 
-### 🖋️ &nbsp;[Indraft](https://indraft.pub)
-> **Source-grounded content drafting**
+- **[Indraft](https://alpstack.com/indraft)** · `early access`: AI content drafting based on trusted sources. It supports 8 source types and 21 destinations, and nothing is published without review.
+- **Indraft Mobile** · `iOS + Android`: Capture ideas by voice, text, photo, file, or link, then review and approve Indraft workflows from your phone. [App Store](https://apps.apple.com/in/app/indraft-ai-content-writer/id6794631258) · [Google Play](https://play.google.com/store/apps/details?id=com.alpstack.indraft)
+- **[HousePulse](https://housepulse.in)** · `live`: A multilingual Bigg Boss fan platform with live voting, contestant profiles, season archives, articles, and community features.
+- **[TinyDose](https://alpstack.com/tinydose)** · `iOS + Android`: Vaccination schedules and reminders for parents. It supports India’s UIP and IAP schedules, the US CDC schedule, the UK NHS schedule, and others. [App Store](https://apps.apple.com/in/app/tinydose-baby-vaccine-tracker/id6762482872) · [Google Play](https://play.google.com/store/apps/details?id=com.alpstack.tinydose)
+- **[MarkdownPaper](https://markdownpaper.app)** · `live`: A private Markdown reader and editor that turns local files or pasted Markdown into a typeset page with code, math, diagrams, and PDF export.
 
-Monitors trusted sources and drafts on-brand posts. A human reviews before anything publishes. No hallucinated shipping.
+**Other live products:** [Triotask](https://alpstack.com/triotask) · **[View all products](https://alpstack.com/products)**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Coming next:** `CЯ∆V?` · `F!VΞTØ9 JØ?S` · `HØUSΞØF∆P!S`
 
-</td>
-<td width="50%" valign="top">
+## What I work on
 
-### 💉 &nbsp;[TinyDose](https://alpstack.com/tinydose)
-> **Vaccine reminders for parents**
+- **Cloud and platform engineering:** Kubernetes operators in Go, Kubernetes-as-a-Service, AWS infrastructure, autoscaling, messaging, observability, Terraform, and Argo.
+- **Web and mobile products:** React, Next.js, React Native, APIs, databases, performance, accessibility, and SEO.
+- **Engineering support:** architecture reviews, code reviews, project delivery, technical interviews, and mentoring. I’ve mentored more than 190 engineers through Springboard and CareerFoundry.
+- **Running products:** research, design, development, launch, analytics, customer support, and regular improvements.
 
-iOS and Android. Keeps a child's immunization schedule on track. Real parents, real paying users.
+<details>
+<summary><strong>Experience</strong></summary>
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**2023 → now · Founder, Alpstack**<br>
+Building and operating a portfolio of software products; consulting on architecture, cloud systems, engineering quality, and hiring.
 
-### 📺 &nbsp;[HousePulse](https://housepulse.in)
-> **Bigg Boss fan platform**
+**May 2020 → now · Software Development Mentor & Educator, Springboard**<br>
+Mentored 90+ engineers one-to-one across full-stack development, AWS cloud, and Python with Django. This includes Amazon and Walmart upskilling cohorts, plus university partnerships with the University of Florida and the University of Michigan. Weekly sessions cover code review, pair programming, architecture, debugging, system design, APIs, CI/CD, databases, cloud deployment, and capstone approval.
 
-**~50,000 monthly users**, grown entirely through SEO and content. Every Indian language version, built for traffic spikes.
+**Jul 2020 → Feb 2026 · Software Engineering Mentor & Technical Instructor, CareerFoundry**<br>
+Mentored around 100 engineers across full-stack development, AWS cloud, and Python with Django, including learners sponsored by Germany’s Federal Employment Agency. Led technical sessions, code reviews, pair programming, architecture discussions, debugging workshops, project reviews, and individual growth plans across distributed teams.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-F97316?style=flat-square)
+**2020 → 2023 · Kubernetes platform engineering**<br>
+Built Kubernetes-as-a-Service systems with Go, Operator SDK, AWS, Argo CD, and Argo Workflows for a platform serving millions of users.
 
-</td>
-<td width="50%" valign="top">
+**2019 → 2020 · Full-stack engineering & architecture**<br>
+Reworked cloud and database architecture, migrated a complex Meteor product, shipped mobile experiences, and built push infrastructure at scale.
 
-### 📄 &nbsp;[MarkdownPaper](https://markdownpaper.app)
-> **Markdown, beautifully typeset**
+**2014 → 2019 · Product engineering at Pearson / GlobalEnglish**<br>
+Helped deliver award-winning learning products, performance improvements, migration programs, and GDPR readiness.
 
-Paste markdown, get a paper page worth reading. Shiki, KaTeX, Mermaid, offline-first PWA.
+**2012 → 2014 · Enterprise engineering at Aon**<br>
+Started with C#, ASP.NET, SQL Server, and the rigor of US retirement and health-benefits systems.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+</details>
 
-</td>
-</tr>
-</table>
+## Technology I use
 
-<div align="center">
+| Layer | Tools I use in production |
+|---|---|
+| **Product** | TypeScript · JavaScript · React · Next.js · React Native · Node.js |
+| **Platforms** | Go · Kubernetes · Docker · Argo CD · Argo Workflows · Terraform |
+| **Cloud & data** | AWS · PostgreSQL · MongoDB · DynamoDB · SQS · Lambda |
+| **Earlier foundations** | C# · ASP.NET · SQL Server · Python |
 
-**More in the workshop.** 🔨 &nbsp;→&nbsp; [**see everything**](https://renish.me/products)
+**Certified:** CNCF Kubernetes Administrator · AWS Solutions Architect · HashiCorp Terraform Associate · Google Project Management · SAFe 4
 
-</div>
+## How I can help
+
+I take on a small number of projects involving:
+
+- software and cloud architecture
+- full-stack product development
+- architecture and code reviews
+- technical interviewing
+- developer mentoring
+- fractional engineering leadership
+
+If you need help with a product, architecture, or cloud systems, **[get in touch](https://renish.me/#contact)**.
 
 ---
 
 <div align="center">
 
-## 🧭 &nbsp;THE ROAD HERE
+[**renish.me**](https://renish.me) &nbsp;·&nbsp; [**Alpstack**](https://alpstack.com) &nbsp;·&nbsp; [**Writing**](https://renish.me/blog) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/renishb)
 
-*Fourteen years. Five domains. One direction: deeper into systems.*
-
-</div>
-
-```
-2012 ─── 2014 ─── 2019 ─── 2020 ─── 2023 ─────────────► now
-  │        │        │        │        │
-  │        │        │        │        └─ Solo. Build, launch, support. Everything.
-  │        │        │        └─ Kubernetes platforms. Go. AWS at millions of users.
-  │        │        └─ Scaling architecture. Mobile. Push at volume.
-  │        └─ E-learning products. Award-winning platforms. Agile at scale.
-  └─ Enterprise .NET. US retirement & health benefits.
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏗️ &nbsp;What I've built at depth
-
-- **Kubernetes operators in Go** — custom controllers, reconciliation loops, Operator SDK, the machinery that keeps a platform self-healing
-- **Kubernetes-as-a-Service** — the cluster handed to developer teams as a product, serving millions
-- **Horizontal autoscaling on AWS**, tuned for real and spiky production load
-- **Terraform** across every environment, and **Argo CD / Argo Workflows** for delivery
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 &nbsp;And the product side of the wall
-
-- **React and Next.js apps** customers actually touch, plus React Native on mobile
-- **Push notification systems** handling millions of requests without falling over
-- **Database and cloud re-architecture** for performance: replication, message brokers, scaled instances
-- **Led teams, ran client demos**, and shipped against real deadlines
-
-</td>
-</tr>
-</table>
-
-> **The enterprise years taught me rigor. The platform years taught me scale.**
-> Going solo taught me everything that surrounds the code: design, launch, SEO, support, and the discipline to actually finish.
-
----
-
-<div align="center">
-
-## 🤖 &nbsp;HOW I WORK NOW
-
-</div>
-
-```diff
-  2024  ████████████████████░░░░  I wrote ~90% of the code
-  2026  ██████░░░░░░░░░░░░░░░░░░  AI drafts ~70%. I own 100%.
-```
-
-**Less typing. Same accountability.**
-
-Agentic tools write most of the first pass now. My job moved to where it matters more: breaking work into clean units, reading every line that ships, writing the tests, and stepping in the moment the model is confidently wrong.
-
----
-
-<div align="center">
-
-## 🛠 &nbsp;STACK
-
-<br />
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br />
-
-**🏅 Certified** &nbsp;·&nbsp; `CKA` &nbsp;·&nbsp; `HashiCorp Terraform Associate` &nbsp;·&nbsp; `AWS Solutions Architect` &nbsp;·&nbsp; `SAFe 4` &nbsp;·&nbsp; `Google Project Management`
-
-[![Credly](https://img.shields.io/badge/View_on_Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/renish-b/badges)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎓 &nbsp;ALSO
-
-**200+ engineers mentored** toward stronger fundamentals.
-I run technical interviews, architecture reviews, and code reviews for teams who are hiring.
-
-<br />
-
-### 💬 &nbsp;Open to
-
-**Cloud & platform architecture consulting** &nbsp;·&nbsp; **Full-stack product builds** &nbsp;·&nbsp; **Technical interviewing** &nbsp;·&nbsp; **Fractional engineering leadership**
-
-<br />
-
-<img src="https://img.shields.io/badge/-%20-F97316?style=for-the-badge" height="4" width="700" />
-
-### **[renish.me](https://renish.me)** &nbsp;·&nbsp; **[alpstack.com](https://alpstack.com)** &nbsp;·&nbsp; **[renishb10@gmail.com](mailto:renishb10@gmail.com)**
-
-*Built from Coimbatore. Shipped to the internet.* 🌏
+<sub>Coimbatore, India · available for remote work worldwide</sub>
 
 </div>
