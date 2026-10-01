@@ -4,9 +4,9 @@
 
 </div>
 
-<img align="right" src="./assets/profile/renish.png" width="190" alt="Renish Bhaskaran">
-
 # Renish Bhaskaran
+
+<img align="right" src="./assets/profile/renish.png" width="190" alt="Renish Bhaskaran">
 
 I’m **Renish B**, a software architect, cloud engineer, and founder from Coimbatore, India. I’ve been building software for 14+ years, from enterprise platforms and cloud infrastructure to web apps, mobile apps, and my own products at **[Alpstack](https://alpstack.com)**.
 
