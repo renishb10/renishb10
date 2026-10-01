@@ -83,7 +83,47 @@ Started with C#, ASP.NET, SQL Server, and the rigor of US retirement and health-
 | **Cloud & data** | AWS · PostgreSQL · MongoDB · DynamoDB · SQS · Lambda |
 | **Earlier foundations** | C# · ASP.NET · SQL Server · Python |
 
-**Certified:** CNCF Kubernetes Administrator · AWS Solutions Architect · HashiCorp Terraform Associate · Google Project Management · SAFe 4
+## Certifications
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+<a href="https://www.credly.com/badges/5f58f2f8-b2b4-4943-8eba-157ea9bb1241/public_url">
+<img src="https://images.credly.com/images/771cff46-3573-4d12-bfd8-528745f00957/linkedin_thumb_GCC_badge_PGM_1000x1000.png" width="110" alt="Google Project Management Certificate">
+</a>
+<br><strong>Google Project Management</strong>
+<br><sub>Verified credential</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://www.credly.com/badges/f6944644-704b-4a30-8b2e-d5afc85f8f19/public_url">
+<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" width="110" alt="Certified Kubernetes Administrator">
+</a>
+<br><strong>Kubernetes Administrator</strong>
+<br><sub>Previously certified</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://www.credly.com/badges/8f08b68a-6e2b-4a6e-98f4-aeb7700cf642/public_url">
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="110" alt="AWS Certified Solutions Architect Associate">
+</a>
+<br><strong>AWS Solutions Architect</strong>
+<br><sub>Previously certified</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://www.credly.com/badges/aac5fdf3-585b-4e6f-bffe-5530472af153/public_url">
+<img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/linkedin_thumb_blob" width="110" alt="HashiCorp Certified Terraform Associate">
+</a>
+<br><strong>Terraform Associate</strong>
+<br><sub>Previously certified</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://www.credly.com/badges/08aed11f-38fe-4867-8985-fca3435bba1c/public_url">
+<img src="https://images.credly.com/images/421ca115-c03d-403d-893c-da7652bb8619/linkedin_thumb_MCSA_Web_Applications-01.png" width="110" alt="Microsoft MCSA Web Applications">
+</a>
+<br><strong>MCSA Web Applications</strong>
+<br><sub>Certified 2016</sub>
+</td>
+</tr>
+</table>
 
 ## How I can help
 
